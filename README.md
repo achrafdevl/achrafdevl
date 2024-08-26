@@ -17,6 +17,11 @@ Here are some ideas to get you started:
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=02F6F7&width=435&lines=Achraf+Chair)](https://git.io/typing-svg)<br>
 **`Full Stack Web Developer | Full Stack JS Developer | MERN Stack Developer | UI/UX Designer`** 
 <br><br>
-[![My Skills](https://skillicons.dev/icons?i=github,git,html,css,js,ts,react,redux,nextjs,tailwind,bootstrap,sass,nodejs,express,figma,mongodb,xd,postman,graphql,netlify,docker,flutter,npm,vite,vercel,wordpress,materialui,vue,vscode,stackoverflow,mysql,&perline=12)](https://skillicons.dev) <br>  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=achrafdevl&theme=react&hide_border=true&border_radius=4&card_width=684)](https://git.io/streak-stats) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=achrafdevl&theme=react )
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=achrafdevl&theme=react) ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=achrafdevl&theme=react)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=achrafdevl&theme=react&utcOffset=8)
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ousskhayi&theme=algolia&hide_border=true&border_radius=4&card_width=684" alt="GitHub Streak">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ousskhayi&theme=algolia" alt="Profile Details">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ousskhayi&theme=algolia" alt="Repos Per Language">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ousskhayi&theme=algolia" alt="Most Commit Language">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ousskhayi&theme=algolia" alt="Stats">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ousskhayi&theme=algolia&utcOffset=8" alt="Productive Time">
+</div>
