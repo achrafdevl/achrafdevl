@@ -1,4 +1,4 @@
-<h1 align="center">Greetings ✨, I'm KHAYI Oussama <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+<h1 align="center">Greetings ✨, I'm Achraf CHAIR <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
   
 <span align="start">  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu&pause=1000&width=435&lines=Front-End+Developer;BacK-End+Developer;full-stack+web+developer)](https://git.io/typing-svg)
 </span>
