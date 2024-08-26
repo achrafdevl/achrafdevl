@@ -21,3 +21,4 @@ Here are some ideas to get you started:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=achrafdevl&theme=react) ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=achrafdevl&theme=react)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=achrafdevl&theme=react&utcOffset=8)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=achrafdevl&theme=dark)](https://git.io/streak-stats)
