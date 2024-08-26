@@ -20,6 +20,3 @@ Here are some ideas to get you started:
 [![My Skills](https://skillicons.dev/icons?i=github,git,html,css,js,ts,react,redux,nextjs,tailwind,bootstrap,sass,nodejs,express,figma,mongodb,xd,postman,graphql,netlify,docker,flutter,npm,vite,vercel,wordpress,materialui,vue,vscode,stackoverflow,mysql,&perline=12)](https://skillicons.dev) <br>  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=achrafdevl&theme=react&hide_border=true&border_radius=4&card_width=684)](https://git.io/streak-stats) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=achrafdevl&theme=react )
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=achrafdevl&theme=react) ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=achrafdevl&theme=react)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=achrafdevl&theme=react&utcOffset=8)
-
-
-
