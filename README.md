@@ -8,6 +8,11 @@
 
 <img align="right" alt="Coding" width="300" height="200" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
+### 👋 About Me
+
+Hi there! I'm Achraf CHAIR, a passionate Full-Stack Web Developer with a focus on building scalable and efficient web applications. I enjoy working with both front-end and back-end technologies, and I'm currently diving deep into Flutter. I love collaborating on innovative projects and am always open to discussing the MERN stack and related technologies.
+
+
 - 🌱 I’m currently learning **Flutter**
 
 - 💬 Ask me about **MERN stack and related technologies**
