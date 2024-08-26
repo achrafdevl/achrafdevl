@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=02F6F7&width=435&lines=Aymane+Mehdi)](https://git.io/typing-svg)<br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=02F6F7&width=435&lines=Achraf+Chair)](https://git.io/typing-svg)<br>
 **`Full Stack Web Developer | Full Stack JS Developer | MERN Stack Developer | UI/UX Designer`** 
 <br><br>
 [![My Skills](https://skillicons.dev/icons?i=github,git,html,css,js,ts,react,redux,nextjs,tailwind,bootstrap,sass,nodejs,express,figma,mongodb,xd,postman,graphql,netlify,docker,Flutter,npm,vite,vercel,wordpress,materialui,vue,vscode,stackoverflow,mysql,&perline=12)](https://skillicons.dev) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=achrafdevl&theme=react&hide_border=true&border_radius=4&card_width=684)](https://git.io/streak-stats) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=achrafdevl&theme=react )
