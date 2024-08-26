@@ -1,33 +1,34 @@
-<h1 align="center">Greetings ✨, I'm Achraf CHAIR <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-  
-<span align="start">  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu&pause=1000&width=435&lines=Front-End+Developer;BacK-End+Developer;full-stack+web+developer)](https://git.io/typing-svg)
+<h1 align="center">Greetings ✨, I'm Achraf CHAIR <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
+<span align="center">  
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Ubuntu&pause=1000&width=435&lines=Front-End+Developer;BacK-End+Developer;Full-Stack+Web+Developer" alt="Typing SVG">
+  </a>
 </span>
-</h1>
 
 <img align="right" alt="Coding" width="400" height="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
- </p>
 
 - 🌱 I’m currently learning **Flutter**
-  
+
 - 💬 Ask me about **MERN stack and related technologies**
 
 - 📫 How to reach me **achrafchair56@gmail.com**
 
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/achraf-chair-2267402b3/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="achraf-chair-linkedin" height="30" width="40" />
-</a>
+  <a href="https://www.linkedin.com/in/achraf-chair-2267402b3/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="achraf-chair-linkedin" height="30" width="40" />
+  </a>
+</p>
 
+<h2 align="left">🚀 Languages and Tools:</h2>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nextjs,vuejs,tailwind,bootstrap,vite,nodejs,npm,express,python,laravel,mongodb,mysql,aws,docker,git,github,vscode,vercel,postman,discord" alt="My Skills">
+  </a>
+</p>
 
-
- </a>🚀 Languages and Tools:</h2>
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nextjs,vuejs,tailwind,bootstrap,vite,nodejs,npm,express,python,laravel,mongodb,mysql,aws,docker,git,github,vscode,vercel,postman,discord)](https://skillicons.dev)
-<br>
-<h2 dir="auto">
-  GitHub Stats
-</h2>
+<h2 align="left">📊 GitHub Stats</h2>
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=achrafdevl&theme=algolia&hide_border=true&border_radius=4&card_width=684" alt="GitHub Streak">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=achrafdevl&theme=algolia" alt="Profile Details">
