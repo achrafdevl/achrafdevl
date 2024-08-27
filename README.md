@@ -14,7 +14,9 @@
 <p width="200" >As a passionate **web developer** and **UI/UX designer**, I specialize in creating engaging, user-friendly interfaces and seamless experiences. With expertise in both front-end and back-end technologies, I’m dedicated to building dynamic, high-performance web applications that meet modern design standards and user needs.
 </p>
 - 🌱 I’m currently learning **Flutter**
+
 - 💬 Ask me about **MERN stack and related technologies**
+-
 - 📫 How to reach me **achrafchair56@gmail.com**
 
 <h2 dir="auto">  
