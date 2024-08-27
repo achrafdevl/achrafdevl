@@ -1,4 +1,4 @@
-<h1 align="center">Greetings ✨, I'm Achraf CHAIR <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Greetings ✨, I'm Achraf CHAIR <img src="[https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif](https://img.freepik.com/vecteurs-premium/homme-est-assis-bureau-ordinateur-code-texte-dessus_906149-48667.jpg?w=1380)" width="35"></h1>
 
 <span align="center">  
   <a href="https://git.io/typing-svg">
