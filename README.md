@@ -2,7 +2,7 @@
 
 <span align="center">  
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Ubuntu&pause=1000&width=435&lines=Front-End+Developer;BacK-End+Developer;Full-Stack+Web+Developer" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Ubuntu&pause=1000&width=435&lines=Front-End+Developer;BacK-End+Developer;Full-Stack+Web+Developer;" alt="Typing SVG">
   </a>
 </span>
 
@@ -26,7 +26,7 @@
 <h2 align="left">🚀 Languages and Tools:</h2>
 <p align="center">
   
-  [![My Skills](https://skillicons.dev/icons?i=github,git,html,css,js,ts,react,redux,nextjs,tailwind,bootstrap,sass,nodejs,express,figma,mongodb,xd,postman,graphql,netlify,docker,flutter,npm,vite,vercel,wordpress,materialui,vue,vscode,stackoverflow,mysql,&perline=12)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=github,git,html,css,js,ts,react,redux,nextjs,tailwind,bootstrap,nodejs,express,figma,mongodb,,postman,docker,flutter,npm,vite,vercel,wordpress,materialui,vue,vuetify,vscode,stackoverflow,mysql,&perline=12)](https://skillicons.dev)
 </p>
 
 
