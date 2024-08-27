@@ -24,9 +24,11 @@
 </p>
 
 <h2 align="left">🚀 Languages and Tools:</h2>
-<p align="left">
+<p align="center">
+  
   [![My Skills](https://skillicons.dev/icons?i=github,git,html,css,js,ts,react,redux,nextjs,tailwind,bootstrap,sass,nodejs,express,figma,mongodb,xd,postman,graphql,netlify,docker,flutter,npm,vite,vercel,wordpress,materialui,vue,vscode,stackoverflow,mysql,&perline=12)](https://skillicons.dev)
 </p>
+
 
 <h2 align="left">📊 GitHub Stats</h2>
 <div align="center">
