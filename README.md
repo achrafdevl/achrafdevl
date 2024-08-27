@@ -25,9 +25,7 @@
 
 <h2 align="left">🚀 Languages and Tools:</h2>
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nextjs,vuejs,tailwind,bootstrap,vite,nodejs,npm,express,python,laravel,mongodb,mysql,aws,docker,git,github,vscode,vercel,postman,discord" alt="My Skills">
-  </a>
+  [![My Skills](https://skillicons.dev/icons?i=github,git,html,css,js,ts,react,redux,nextjs,tailwind,bootstrap,sass,nodejs,express,figma,mongodb,xd,postman,graphql,netlify,docker,flutter,npm,vite,vercel,wordpress,materialui,vue,vscode,stackoverflow,mysql,&perline=12)](https://skillicons.dev)
 </p>
 
 <h2 align="left">📊 GitHub Stats</h2>
