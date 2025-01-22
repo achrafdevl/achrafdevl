@@ -40,8 +40,8 @@
 
 <p>Here are some of the websites I have created:</p>
 <ul>
-  <li><a href="https://example1.com" target="_blank">https://metal-bache.com</a></li>
-  <li><a href="https://example2.com" target="_blank">https://www.webzendigitale.com</a></li>
+  <li><a href="https://metal-bache.com" target="_blank">https://metal-bache.com</a></li>
+  <li><a href="https://webzendigitale.com" target="_blank">https://www.webzendigitale.com</a></li>
 </ul>
 
 <h2 align="left">📊 GitHub Stats</h2>
