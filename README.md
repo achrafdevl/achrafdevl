@@ -36,7 +36,13 @@
   
   [![My Skills](https://skillicons.dev/icons?i=github,git,html,css,js,ts,react,redux,nextjs,vue,vuetify,tailwind,bootstrap,nodejs,express,mongodb,mysql,docker,postman,npm,vite,vercel,flutter,wordpress,materialui,figma,vscode,stackoverflow,&perline=12)](https://skillicons.dev)
 </p>
+<h2 align="left">📂 Projects</h2>
 
+<p>Here are some of the websites I have created:</p>
+<ul>
+  <li><a href="https://example1.com" target="_blank">https://metal-bache.com</a></li>
+  <li><a href="https://example2.com" target="_blank">https://www.webzendigitale.com</a></li>
+</ul>
 
 <h2 align="left">📊 GitHub Stats</h2>
 <div align="center">
