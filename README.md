@@ -40,8 +40,8 @@
 <h2>📊 GitHub Stats</h2>
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=achrafdevl&theme=algolia&hide_border=true&border_radius=4&card_width=684" alt="GitHub Streak">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=achrafdevl&theme=algolia" alt="Profile Details" width="684">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=achrafdevl&theme=algolia" alt="Repos Per Language">
+<!--   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=achrafdevl&theme=algolia" alt="Profile Details" width="684">-->
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=achrafdevl&theme=algolia" alt="Repos Per Language"> 
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=achrafdevl&theme=algolia" alt="Most Commit Language">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=achrafdevl&theme=algolia" alt="Stats">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=achrafdevl&theme=algolia&utcOffset=8" alt="Productive Time">
