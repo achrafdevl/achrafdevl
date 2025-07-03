@@ -7,7 +7,7 @@
 </span>
 
 ## 🙋‍♂ About Me
-<img align="right" alt="Coding" width="300" height="200" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" alt="Coding" width="300" height="200" src="https://i.pinimg.com/736x/54/e3/d0/54e3d0c0437a1204a1eb84405e428346.jpg">
 
 <p>As a passionate <strong>web developer</strong> and <strong>UI/UX designer</strong>, I specialize in creating engaging, user-friendly interfaces and seamless experiences. With expertise in both front-end and back-end technologies, I’m dedicated to building dynamic, high-performance web applications that meet modern design standards and user needs.</p>
 
