@@ -7,7 +7,7 @@
 </span>
 
 ## 🙋‍♂ About Me
-<img align="right" alt="Coding" width="300" height="200" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" alt="Coding" width="300" height="200" src="[https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif](https://i.pinimg.com/736x/54/e3/d0/54e3d0c0437a1204a1eb84405e428346.jpg)">
 
 <p>As a passionate <strong>web developer</strong> and <strong>UI/UX designer</strong>, I specialize in creating engaging, user-friendly interfaces and seamless experiences. With expertise in both front-end and back-end technologies, I’m dedicated to building dynamic, high-performance web applications that meet modern design standards and user needs.</p>
 
@@ -18,7 +18,7 @@
 <h2>📱 Connect with me:</h2>
 <p align="left">
   <a href="https://www.linkedin.com/in/achraf-chair-2267402b3/" target="_blank">
-    <img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg](https://i.pinimg.com/736x/54/e3/d0/54e3d0c0437a1204a1eb84405e428346.jpg)" alt="achraf-chair-linkedin" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="achraf-chair-linkedin" height="30" width="40" />
   </a>
 </p>
 
