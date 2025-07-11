@@ -2,7 +2,7 @@
 
 <span align="center">  
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Ubuntu&pause=1000&width=435&lines=Front-End+Developer;Back-End+Developer;Full-Stack+Web+Developer;" alt="Typing SVG">
+<img src="https://readme-typing-svg.demolab.com?font=Ubuntu&pause=1000&width=435&lines=Front-End+Developer;Back-End+Developer;Full-Stack+Web+Developer;UI%2FUX+Designer;AI+Developer" alt="Typing SVG">
   </a>
 </span>
 
@@ -25,8 +25,9 @@
 <h2>🚀 Languages and Tools:</h2>
 <p align="center">
   <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github,git,html,css,js,ts,react,redux,nextjs,vue,vuetify,tailwind,bootstrap,nodejs,express,mongodb,mysql,docker,postman,npm,vite,vercel,flutter,wordpress,materialui,figma,vscode,stackoverflow&perline=12" alt="My Skills">
-  </a>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,vue,vuetify,tailwind,bootstrap,materialui,nodejs,express,nestjs,mysql,postgres,mongodb,flutter,git,github,docker,azure,postman,npm,vite,vercel,figma,vscode,bash,linux,anaconda,wordpress,graphql,stackoverflow&perline=12" alt="My Skills">
+</a>
+
 </p>
 
 <h2>📂 Projects</h2>
