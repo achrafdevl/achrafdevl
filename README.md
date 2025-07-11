@@ -17,9 +17,9 @@
 
 <h2>📱 Connect with me:</h2>
 <p align="left">
-  <a href="https://www.linkedin.com/in/achraf-chair-2267402b3/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="achraf-chair-linkedin" height="30" width="40" />
-  </a>
+  <a href="https://skillicons.dev" target="_blank">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,vue,vuetify,tailwind,bootstrap,materialui,nodejs,express,nestjs,sequelize,mysql,postgres,mongodb,flutter,git,github,docker,azure,postman,npm,vite,vercel,figma,vscode,bash,linux,ubuntu,anaconda,tensorflow,wordpress,graphql,stackoverflow&perline=12" alt="My Skills">
+</a>
 </p>
 
 <h2>🚀 Languages and Tools:</h2>
